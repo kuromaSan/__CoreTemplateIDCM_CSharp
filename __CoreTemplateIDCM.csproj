@@ -1,0 +1,160 @@
+﻿<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{0C52CA91-E526-4CAF-B17E-09F11B212F7B}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <NoStandardLibraries>false</NoStandardLibraries>
+    <AssemblyName>ConsoleApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>__CoreTemplateIDCM</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".git\config" />
+    <None Include=".git\description" />
+    <None Include=".git\FETCH_HEAD" />
+    <None Include=".git\HEAD" />
+    <None Include=".git\hooks\applypatch-msg.sample" />
+    <None Include=".git\hooks\commit-msg.sample" />
+    <None Include=".git\hooks\fsmonitor-watchman.sample" />
+    <None Include=".git\hooks\post-update.sample" />
+    <None Include=".git\hooks\pre-applypatch.sample" />
+    <None Include=".git\hooks\pre-commit.sample" />
+    <None Include=".git\hooks\pre-merge-commit.sample" />
+    <None Include=".git\hooks\pre-push.sample" />
+    <None Include=".git\hooks\pre-rebase.sample" />
+    <None Include=".git\hooks\pre-receive.sample" />
+    <None Include=".git\hooks\prepare-commit-msg.sample" />
+    <None Include=".git\hooks\push-to-checkout.sample" />
+    <None Include=".git\hooks\sendemail-validate.sample" />
+    <None Include=".git\hooks\update.sample" />
+    <None Include=".git\index" />
+    <None Include=".git\info\exclude" />
+    <None Include=".git\logs\HEAD" />
+    <None Include=".git\logs\refs\heads\main" />
+    <None Include=".git\logs\refs\remotes\origin\HEAD" />
+    <None Include=".git\objects\pack\pack-cd5436ad07e8bd997bc32feda29e538c349fd35b.idx" />
+    <None Include=".git\objects\pack\pack-cd5436ad07e8bd997bc32feda29e538c349fd35b.pack" />
+    <None Include=".git\objects\pack\pack-cd5436ad07e8bd997bc32feda29e538c349fd35b.rev" />
+    <None Include=".git\packed-refs" />
+    <None Include=".git\refs\heads\main" />
+    <None Include=".git\refs\remotes\origin\HEAD" />
+    <None Include=".git\sourcetreeconfig.json" />
+    <None Include=".vs\ProjectSettings.json" />
+    <None Include=".vs\slnx.sqlite" />
+    <None Include=".vs\VSWorkspaceState.json" />
+    <None Include=".vs\__CoreTemplateIDCM_CSharp\FileContentIndex\a8684ae0-065c-4ce3-bfec-b256f8dded64.vsidx" />
+    <None Include=".vs\__CoreTemplateIDCM_CSharp\v17\.wsuo" />
+    <None Include=".vs\__CoreTemplateIDCM_CSharp\v17\DocumentLayout.json" />
+    <None Include="Document\Crafter\README.md" />
+    <None Include="Document\Crafter\__Todo\README.md" />
+    <None Include="Document\Crafter\__Todo\__CheckName\README.md" />
+    <None Include="Document\Crafter\__Todo\__CheckName\__TableName\README.md" />
+    <None Include="Document\Document.yaml" />
+    <None Include="Document\L00_Schema\README.md" />
+    <None Include="Document\L00_Schema\__Schema\README.md" />
+    <None Include="Document\L01_Variable\Builder\README.md" />
+    <None Include="Document\L01_Variable\Builder\__Todo\README.md" />
+    <None Include="Document\L01_Variable\Builder\__Todo\__CheckName\README.md" />
+    <None Include="Document\L01_Variable\Builder\__Todo\__CheckName\__TableName\README.md" />
+    <None Include="Document\L01_Variable\Config\README.md" />
+    <None Include="Document\L01_Variable\Config\__Todo\README.md" />
+    <None Include="Document\L01_Variable\Config\__Todo\__CheckName\README.md" />
+    <None Include="Document\L01_Variable\Config\__Todo\__CheckName\__TableName\README.md" />
+    <None Include="Document\L01_Variable\README.md" />
+    <None Include="Document\L02_Function\Policy\README.md" />
+    <None Include="Document\L02_Function\Policy\__Todo\README.md" />
+    <None Include="Document\L02_Function\Policy\__Todo\__CheckName\README.md" />
+    <None Include="Document\L02_Function\Policy\__Todo\__CheckName\__TableName\README.md" />
+    <None Include="Document\L02_Function\README.md" />
+    <None Include="Document\L02_Function\Repository\README.md" />
+    <None Include="Document\L02_Function\Repository\__Todo\README.md" />
+    <None Include="Document\L02_Function\Repository\__Todo\__CheckName\README.md" />
+    <None Include="Document\L02_Function\Repository\__Todo\__CheckName\__TableName\README.md" />
+    <None Include="Document\L02_Function\Strategy\README.md" />
+    <None Include="Document\L02_Function\Strategy\__Todo\README.md" />
+    <None Include="Document\L02_Function\Strategy\__Todo\__CheckName\README.md" />
+    <None Include="Document\L02_Function\Strategy\__Todo\__CheckName\__TableName\README.md" />
+    <None Include="Document\L03_Interface\Execute\README.md" />
+    <None Include="Document\L03_Interface\Execute\__Todo\README.md" />
+    <None Include="Document\L03_Interface\Execute\__Todo\__CheckName\README.md" />
+    <None Include="Document\L03_Interface\Execute\__Todo\__CheckName\__TableName\README.md" />
+    <None Include="Document\L03_Interface\README.md" />
+    <None Include="Document\L03_Interface\Usecase\README.md" />
+    <None Include="Document\L03_Interface\Usecase\__Todo\README.md" />
+    <None Include="Document\L03_Interface\Usecase\__Todo\__CheckName\README.md" />
+    <None Include="Document\L03_Interface\Usecase\__Todo\__CheckName\__TableName\README.md" />
+    <None Include="Document\Model\README.md" />
+    <None Include="Document\Model\__Todo\README.md" />
+    <None Include="Document\Model\__Todo\__CheckName\README.md" />
+    <None Include="Document\Model\__Todo\__CheckName\__TableName\README.md" />
+    <None Include="Document\README.md" />
+    <None Include="Document\__ScriptsCopy\README.md" />
+    <None Include="Document\__ScriptsCopy\__Todo\README.md" />
+    <None Include="Document\__ScriptsCopy\__Todo\__CheckName\README.md" />
+    <None Include="Document\__ScriptsCopy\__Todo\__CheckName\__TableName\README.md" />
+    <None Include="README.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Scripts\L01_Variable\NameBuilder.cs" />
+    <Compile Include="Scripts\L01_Variable\NameConfig.cs" />
+    <Compile Include="Scripts\L02_Function\INameRepository.cs" />
+    <Compile Include="Scripts\L02_Function\NamePolicy.cs" />
+    <Compile Include="Scripts\L02_Function\NameRepository.cs" />
+    <Compile Include="Scripts\L02_Function\NameStrategy.cs" />
+    <Compile Include="Scripts\L03_Interface\NameExecute.cs" />
+    <Compile Include="Scripts\L03_Interface\NameUsecase.cs" />
+    <Compile Include="Scripts\NameCrafter.cs" />
+    <Compile Include="Scripts\NameModel.cs" />
+    <Compile Include="Test\L01_Variable\NameBuilderTest.cs" />
+    <Compile Include="Test\L01_Variable\NameConfigTest.cs" />
+    <Compile Include="Test\L02_Function\NamePolicyTest.cs" />
+    <Compile Include="Test\L02_Function\NameRepositoryTest.cs" />
+    <Compile Include="Test\L02_Function\NameStrategyTest.cs" />
+    <Compile Include="Test\L03_Interface\NameExecuteTest.cs" />
+    <Compile Include="Test\L03_Interface\NameUsecaseTest.cs" />
+    <Compile Include="Test\NameCrafterTest.cs" />
+    <Compile Include="Test\NameModelTest.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include=".git\objects\info\" />
+    <Folder Include=".git\refs\tags\" />
+    <Folder Include=".vs\__CoreTemplateIDCM\v17\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
+  <ProjectExtensions>
+    <VisualStudio AllowExistingFolder="true" />
+  </ProjectExtensions>
+</Project>

@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Object\\__CoreTemplateIDCM_CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|D:\\Object\\__CoreTemplateIDCM_CSharp\\scripts\\l02_function\\inamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|solutionrelative:scripts\\l02_function\\inamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|D:\\Object\\__CoreTemplateIDCM_CSharp\\scripts\\l02_function\\namepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|solutionrelative:scripts\\l02_function\\namepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|D:\\Object\\__CoreTemplateIDCM_CSharp\\scripts\\l02_function\\namerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|solutionrelative:scripts\\l02_function\\namerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|D:\\Object\\__CoreTemplateIDCM_CSharp\\scripts\\l01_variable\\nameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|solutionrelative:scripts\\l01_variable\\nameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|D:\\Object\\__CoreTemplateIDCM_CSharp\\scripts\\l01_variable\\namebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|solutionrelative:scripts\\l01_variable\\namebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|d:\\object\\__coretemplateidcm_csharp\\scripts\\namecrafter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|solutionrelative:scripts\\namecrafter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|D:\\Object\\__CoreTemplateIDCM_CSharp\\scripts\\namemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|solutionrelative:scripts\\namemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|D:\\Object\\__CoreTemplateIDCM_CSharp\\test\\namemodeltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|solutionrelative:test\\namemodeltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|D:\\Object\\__CoreTemplateIDCM_CSharp\\test\\namecraftertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|solutionrelative:test\\namecraftertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|D:\\Object\\__CoreTemplateIDCM_CSharp\\test\\l03_interface\\nameexecutetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|solutionrelative:test\\l03_interface\\nameexecutetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|D:\\Object\\__CoreTemplateIDCM_CSharp\\test\\l03_interface\\nameusecasetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|solutionrelative:test\\l03_interface\\nameusecasetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|D:\\Object\\__CoreTemplateIDCM_CSharp\\test\\l02_function\\namestrategytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|solutionrelative:test\\l02_function\\namestrategytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|D:\\Object\\__CoreTemplateIDCM_CSharp\\test\\l02_function\\namerepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|solutionrelative:test\\l02_function\\namerepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|D:\\Object\\__CoreTemplateIDCM_CSharp\\test\\l02_function\\namepolicytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|solutionrelative:test\\l02_function\\namepolicytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|D:\\Object\\__CoreTemplateIDCM_CSharp\\test\\l01_variable\\nameconfigtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|solutionrelative:test\\l01_variable\\nameconfigtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|D:\\Object\\__CoreTemplateIDCM_CSharp\\test\\l01_variable\\namebuildertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|solutionrelative:test\\l01_variable\\namebuildertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|D:\\Object\\__CoreTemplateIDCM_CSharp\\scripts\\l03_interface\\nameusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|solutionrelative:scripts\\l03_interface\\nameusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|D:\\Object\\__CoreTemplateIDCM_CSharp\\scripts\\l03_interface\\nameexecute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|solutionrelative:scripts\\l03_interface\\nameexecute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|D:\\Object\\__CoreTemplateIDCM_CSharp\\scripts\\l02_function\\namestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C52CA91-E526-4CAF-B17E-09F11B212F7B}|__CoreTemplateIDCM.csproj|solutionrelative:scripts\\l02_function\\namestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NameCrafter.cs",
+              "DocumentMoniker": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Scripts\\NameCrafter.cs",
+              "RelativeDocumentMoniker": "Scripts\\NameCrafter.cs",
+              "ToolTip": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Scripts\\NameCrafter.cs",
+              "RelativeToolTip": "Scripts\\NameCrafter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:36:58.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NameBuilder.cs",
+              "DocumentMoniker": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Scripts\\L01_Variable\\NameBuilder.cs",
+              "RelativeDocumentMoniker": "Scripts\\L01_Variable\\NameBuilder.cs",
+              "ToolTip": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Scripts\\L01_Variable\\NameBuilder.cs",
+              "RelativeToolTip": "Scripts\\L01_Variable\\NameBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T08:57:56.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NameConfig.cs",
+              "DocumentMoniker": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Scripts\\L01_Variable\\NameConfig.cs",
+              "RelativeDocumentMoniker": "Scripts\\L01_Variable\\NameConfig.cs",
+              "ToolTip": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Scripts\\L01_Variable\\NameConfig.cs",
+              "RelativeToolTip": "Scripts\\L01_Variable\\NameConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T09:13:20.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NameCrafterTest.cs",
+              "DocumentMoniker": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Test\\NameCrafterTest.cs",
+              "RelativeDocumentMoniker": "Test\\NameCrafterTest.cs",
+              "ToolTip": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Test\\NameCrafterTest.cs",
+              "RelativeToolTip": "Test\\NameCrafterTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:41:19.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "INameRepository.cs",
+              "DocumentMoniker": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Scripts\\L02_Function\\INameRepository.cs",
+              "RelativeDocumentMoniker": "Scripts\\L02_Function\\INameRepository.cs",
+              "ToolTip": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Scripts\\L02_Function\\INameRepository.cs",
+              "RelativeToolTip": "Scripts\\L02_Function\\INameRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:58:56.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NameRepository.cs",
+              "DocumentMoniker": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Scripts\\L02_Function\\NameRepository.cs",
+              "RelativeDocumentMoniker": "Scripts\\L02_Function\\NameRepository.cs",
+              "ToolTip": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Scripts\\L02_Function\\NameRepository.cs",
+              "RelativeToolTip": "Scripts\\L02_Function\\NameRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:31:12.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NamePolicy.cs",
+              "DocumentMoniker": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Scripts\\L02_Function\\NamePolicy.cs",
+              "RelativeDocumentMoniker": "Scripts\\L02_Function\\NamePolicy.cs",
+              "ToolTip": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Scripts\\L02_Function\\NamePolicy.cs",
+              "RelativeToolTip": "Scripts\\L02_Function\\NamePolicy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:13:52.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NameModelTest.cs",
+              "DocumentMoniker": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Test\\NameModelTest.cs",
+              "RelativeDocumentMoniker": "Test\\NameModelTest.cs",
+              "ToolTip": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Test\\NameModelTest.cs",
+              "RelativeToolTip": "Test\\NameModelTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:39:38.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NameModel.cs",
+              "DocumentMoniker": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Scripts\\NameModel.cs",
+              "RelativeDocumentMoniker": "Scripts\\NameModel.cs",
+              "ToolTip": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Scripts\\NameModel.cs",
+              "RelativeToolTip": "Scripts\\NameModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:37:59.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NameExecuteTest.cs",
+              "DocumentMoniker": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Test\\L03_Interface\\NameExecuteTest.cs",
+              "RelativeDocumentMoniker": "Test\\L03_Interface\\NameExecuteTest.cs",
+              "ToolTip": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Test\\L03_Interface\\NameExecuteTest.cs",
+              "RelativeToolTip": "Test\\L03_Interface\\NameExecuteTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:51:06.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NameStrategyTest.cs",
+              "DocumentMoniker": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Test\\L02_Function\\NameStrategyTest.cs",
+              "RelativeDocumentMoniker": "Test\\L02_Function\\NameStrategyTest.cs",
+              "ToolTip": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Test\\L02_Function\\NameStrategyTest.cs",
+              "RelativeToolTip": "Test\\L02_Function\\NameStrategyTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:49:46.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NameUsecaseTest.cs",
+              "DocumentMoniker": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Test\\L03_Interface\\NameUsecaseTest.cs",
+              "RelativeDocumentMoniker": "Test\\L03_Interface\\NameUsecaseTest.cs",
+              "ToolTip": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Test\\L03_Interface\\NameUsecaseTest.cs",
+              "RelativeToolTip": "Test\\L03_Interface\\NameUsecaseTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:51:38.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NameRepositoryTest.cs",
+              "DocumentMoniker": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Test\\L02_Function\\NameRepositoryTest.cs",
+              "RelativeDocumentMoniker": "Test\\L02_Function\\NameRepositoryTest.cs",
+              "ToolTip": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Test\\L02_Function\\NameRepositoryTest.cs",
+              "RelativeToolTip": "Test\\L02_Function\\NameRepositoryTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:49:13.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NamePolicyTest.cs",
+              "DocumentMoniker": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Test\\L02_Function\\NamePolicyTest.cs",
+              "RelativeDocumentMoniker": "Test\\L02_Function\\NamePolicyTest.cs",
+              "ToolTip": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Test\\L02_Function\\NamePolicyTest.cs",
+              "RelativeToolTip": "Test\\L02_Function\\NamePolicyTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:48:54.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NameBuilderTest.cs",
+              "DocumentMoniker": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Test\\L01_Variable\\NameBuilderTest.cs",
+              "RelativeDocumentMoniker": "Test\\L01_Variable\\NameBuilderTest.cs",
+              "ToolTip": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Test\\L01_Variable\\NameBuilderTest.cs",
+              "RelativeToolTip": "Test\\L01_Variable\\NameBuilderTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:46:32.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NameConfigTest.cs",
+              "DocumentMoniker": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Test\\L01_Variable\\NameConfigTest.cs",
+              "RelativeDocumentMoniker": "Test\\L01_Variable\\NameConfigTest.cs",
+              "ToolTip": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Test\\L01_Variable\\NameConfigTest.cs",
+              "RelativeToolTip": "Test\\L01_Variable\\NameConfigTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:45:41.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NameUsecase.cs",
+              "DocumentMoniker": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Scripts\\L03_Interface\\NameUsecase.cs",
+              "RelativeDocumentMoniker": "Scripts\\L03_Interface\\NameUsecase.cs",
+              "ToolTip": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Scripts\\L03_Interface\\NameUsecase.cs",
+              "RelativeToolTip": "Scripts\\L03_Interface\\NameUsecase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:35:22.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NameExecute.cs",
+              "DocumentMoniker": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Scripts\\L03_Interface\\NameExecute.cs",
+              "RelativeDocumentMoniker": "Scripts\\L03_Interface\\NameExecute.cs",
+              "ToolTip": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Scripts\\L03_Interface\\NameExecute.cs",
+              "RelativeToolTip": "Scripts\\L03_Interface\\NameExecute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:34:07.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NameStrategy.cs",
+              "DocumentMoniker": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Scripts\\L02_Function\\NameStrategy.cs",
+              "RelativeDocumentMoniker": "Scripts\\L02_Function\\NameStrategy.cs",
+              "ToolTip": "D:\\Object\\__CoreTemplateIDCM_CSharp\\Scripts\\L02_Function\\NameStrategy.cs",
+              "RelativeToolTip": "Scripts\\L02_Function\\NameStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:33:23.029Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
